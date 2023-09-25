@@ -7,3 +7,4 @@ Experiments:
 
 key citations:
 - is emergence a mirage? https://arxiv.org/abs/2304.15004
+- https://brando90.github.io/brandomiranda/prospective-collaborations.html 
